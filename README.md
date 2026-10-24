@@ -8,3 +8,4 @@ running - python greet.py
 ## Features
 - Greets a person
 - says hey
+- says hello
