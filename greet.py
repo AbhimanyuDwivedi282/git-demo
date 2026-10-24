@@ -1,5 +1,5 @@
 def greet(name):
-    return "Hey, " + name
+    return "Hello sir, " + name
 
 print(greet("Class"))
 
